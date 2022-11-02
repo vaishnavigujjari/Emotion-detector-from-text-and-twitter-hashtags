@@ -1,2 +1,2 @@
-# Emotion-detector-from-text-and-twitter-hashtags
-The project is done using machine learning techniques and natural language processing where the subjective information can be extracted and classified based on various emotions. The emotions that are involved in the texts are displayed using a bar plot. Similarly, The emotions involved in the tweets with the hashtag chosen are analysed and visualised in a bar plot.
+# Emotion Detector from text and twitter hashtags
+The project is done using machine learning techniques and natural language processing where the subjective information can be extracted and classified based on various emotions.
